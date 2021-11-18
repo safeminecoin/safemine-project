@@ -1,1 +1,1 @@
-# safeminecoin.xyz
+# SafeMineCoin
