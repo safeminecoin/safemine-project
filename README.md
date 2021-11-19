@@ -1,1 +1,4 @@
+baseurl: /index.html
+
+
 # SafeMineCoin
